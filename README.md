@@ -16,7 +16,7 @@ task5/
 
 ---
 
-## 🚀 **How to Run the Project**
+##  **How to Run the Project**
 
 ### **1. Install Dependencies**
 
@@ -45,7 +45,7 @@ python analysis.py
 
 ---
 
-## 📝 **What This Script Does**
+##  **What This Script Does**
 
 ### ✅ **Step 1: Load the CSV File**
 
@@ -83,7 +83,7 @@ These charts will open automatically using Matplotlib.
 
 ---
 
-## 📦 **Output**
+##  **Output**
 
 When you run `analysis.py`, you will get:
 
